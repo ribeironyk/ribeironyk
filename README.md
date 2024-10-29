@@ -10,5 +10,6 @@ Aqui estão algumas ideias para você começar:
 - 🦉 Pronomes: ela/dela
 - ⚡ Curiosidade não como tomate 🍅
 - 📍 Curitiba-PR
+- [ALURA](www.alura.com.br)
 
 ![](https://media.tenor.com/SG2Y2dkZvqoAAAAM/ori.gi)
