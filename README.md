@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **ribeironyk/ribeironyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Aqui estão algumas ideias para você começar:
